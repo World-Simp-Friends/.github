@@ -7,13 +7,14 @@
     <strong>Vietnam Hololive & Vtuber Community 🇻🇳</strong><br/>
   </p>
 
-  <a href="https://discord.gg/vA3BaeHkGg">
-    <img src="https://img.shields.io/discord/829649310382686279?color=5865F2&label=Discord&logo=discord&logoColor=white" alt="Discord"/>
+<a href="https://discord.gg/vA3BaeHkGg">
+    <img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
   </a>
+  
   <a href="https://worldlotho.com">
     <img src="https://img.shields.io/badge/Website-worldlotho.com-ff0055?style=flat&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
-</div>
+  </div>
 
 ### 📖 About Us
 
