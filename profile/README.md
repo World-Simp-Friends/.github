@@ -59,6 +59,6 @@ We utilize a modern stack to power our community platform, ticketing systems, an
 
 We welcome developers, artists, and creators to join us.
 
-1.  Join our **Discord** to discuss ideas and coordinate.
-2.  Visit our official website at **[worldlotho.com](https://worldlotho.com)**.
+1.  Visit our official website at **[worldlotho.com](https://worldlotho.com)**.
+2.  Join our **Discord** to discuss ideas and coordinate.
 3.  Apply to Our team!!
