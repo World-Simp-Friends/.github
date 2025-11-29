@@ -1,11 +1,10 @@
 <div align="center">
   <img src="https://office.worldlotho.com/images/bg-login.jpg" width="100%" style="border-radius: 10px; object-fit: cover; max-height: 300px;"/>
   
-  <h1>🌏 World Simp & Friends</h1>
+  <h1>World Simp & Friends</h1>
   
   <p>
     <strong>Vietnam Hololive & Vtuber Community 🇻🇳</strong><br/>
-    <i>Connecting Fans • Sharing Passion • Creating Memories</i>
   </p>
 
   <a href="https://discord.gg/vA3BaeHkGg">
