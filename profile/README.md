@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/World-Simp-Friends/.github/refs/heads/main/profile/dev3x.png" width="100%" style="border-radius: 10px; object-fit: cover; max-height: 300px;"/>
+  <img src="https://raw.githubusercontent.com/World-Simp-Friends/.github/refs/heads/main/profile/dev3x.png" width="50%" style="border-radius: 10px; object-fit: cover; max-height: 300px;"/>
   
   <h1>World Simp & Friends</h1>
   
