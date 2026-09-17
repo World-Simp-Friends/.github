@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   
-  <a href="https://worldlotho.com">
+  <a href="https://worldsimp.com">
     <img src="https://img.shields.io/badge/Website-worldlotho.com-ff0055?style=flat&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
   </div>
