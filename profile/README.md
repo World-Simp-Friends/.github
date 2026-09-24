@@ -1,114 +1,72 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/World-Simp-Friends/.github/refs/heads/main/profile/logo_dev_dark_mode.webp" width="50%" alt="World Simp & Friends" />
+<img src="https://raw.githubusercontent.com/World-Simp-Friends/.github/refs/heads/main/profile/logo_dev_dark_mode.webp" width="320" alt="World Simp & Friends" />
 
-# World Simp & Friends Team Developer
+# World Simp & Friends Engineering
 
 **Product Engineering · Internal Systems · Web Infrastructure**
+
 </div>
 
 ---
 
-We are the team responsible for designing, building, and maintaining the software behind **World Simp & Friends**.
+We design, build, and maintain the software behind **World Simp & Friends** — from public-facing products like ticketing to the internal tools that support events, commerce, and team operations.
 
-Our work focuses on the infrastructure that keeps the organization running — from public-facing products such as ticketing to internal systems used for events, operations, commerce, and team workflows.
+As WS&F grows beyond its origins as a fandom community, we're building the technical foundation for new products, experiences, and original IP.
 
-As World Simp & Friends moves beyond its origins as a fandom-focused community, we're also building the technical foundation for its next stage: **new products, new experiences, and original IP**.
-
-## What we build
+## What We Build
 
 ### Ticketing & Commerce
 
-We operate and continuously develop the ticketing platform used across World Simp & Friends events and activities.
+We develop the platforms and workflows used to run WS&F events and activities, including:
 
-Our work includes:
-
-* ticket sales and order management
-* event registration
-* payment and transaction workflows
-* attendee management
-* event-specific storefronts and releases
+- Ticket sales, orders, and payments
+- Event registration and attendee management
+- Event storefronts and product releases
 
 ### Internal Systems
 
-A growing collection of tools designed around how our team actually works.
+We build tools around the way our team works, including systems for:
 
-This includes systems for:
-
-* event operations
-* project and team management
-* inventory and merchandise
-* member and staff workflows
-* administration and reporting
-* automation between internal services
+- Event operations and administration
+- Project, team, and member workflows
+- Inventory and merchandise
+- Reporting and service automation
 
 ### Web Products
 
-We maintain the web infrastructure behind the World Simp & Friends ecosystem, including public websites, APIs, internal applications, and supporting services.
-
----
+We maintain the web infrastructure behind the WS&F ecosystem, including public websites, APIs, internal applications, and supporting services.
 
 ## Current Focus
 
-`INTERNAL SYSTEMS` · `TICKETING` · `PRODUCT` · `INFRASTRUCTURE`
-
-We're currently focused on:
-
-* expanding our internal platform
-* maintaining and improving our production ticketing system
-* rebuilding the World Simp & Friends web presence
-* consolidating previously fragmented operational workflows
-* creating infrastructure for future products and original IP
-
----
+- Expanding our internal platform
+- Improving our production ticketing system
+- Rebuilding the WS&F web presence
+- Connecting fragmented operational workflows
+- Preparing infrastructure for future products and original IP
 
 ## Engineering
 
-We prefer systems that are **simple to operate, easy to maintain, and designed around real workflows**.
+We aim to build systems that are **simple to operate, easy to maintain, and shaped around real workflows**.
 
-Our stack currently includes:
+- **Application:** TypeScript, JavaScript, React, Hono, Node.js
+- **Data:** PostgreSQL, Prisma
+- **Infrastructure:** Cloudflare, Docker, Linux
 
-**Application**
+Our stack evolves with the products we build. We choose tools for the problems they solve, not simply because they are new.
 
-`TypeScript` · `JavaScript` · `React` · `Hono` · `Node.js`
+## How We Work
 
-**Data**
+- **Product before implementation:** Understand the problem and workflow before choosing how to build.
+- **Internal tools are products too:** Give team-facing software the same care and usability as public products.
+- **Build for operations:** Design for crowded venues, deadlines, unreliable networks, and last-minute changes.
+- **Keep ownership close:** Let the people shaping, building, and operating a system communicate directly.
 
-`PostgreSQL` · `Prisma`
+## About World Simp & Friends
 
-**Infrastructure**
+World Simp & Friends began as a Vietnamese fandom community and event organizer. Today, we're growing into a broader creative and technology-driven organization.
 
-`Cloudflare` · `Docker` · `Linux`
-
-Our stack evolves with the products we build. We don't adopt technology simply because it is new.
-
----
-
-## How we work
-
-**Product before implementation.**
-We define the workflow and the problem before choosing how to build it.
-
-**Internal tools are products too.**
-Software used by our own team should receive the same attention to usability as public-facing software.
-
-**Build for operations.**
-Event systems need to work under real conditions — crowded venues, deadlines, unreliable networks, last-minute changes, and people who do not care how elegant the architecture is.
-
-**Keep ownership close.**
-The people designing the workflow, building the system, and operating it should be able to communicate directly.
-
----
-
-## World Simp & Friends
-
-World Simp & Friends began as a Vietnamese fandom community and event organizer.
-
-Today, we're developing it into a broader creative and technology-driven organization, while exploring **original IP, new event formats, and products of our own**.
-
-→ [worldsimp.com](https://worldsimp.com)
-
----
+[worldsimp.com](https://worldsimp.com)
 
 ## Contact
 
@@ -118,4 +76,5 @@ For collaboration, development, or organization inquiries:
 
 ---
 
-<sub>WORLD SIMP & FRIENDS · 2021 - 2026</sub>
+<sub>WORLD SIMP & FRIENDS · 2021–2026</sub>
+
